@@ -7,7 +7,7 @@
 ### - 🔭 I’m currently working on lua, css and ytd
 ### - 🌱 I’m currently learning js
 ### - 🌆 I’m currently working on some projects
-### - 🎃 FiveM Modder, Cheats tester and Anticheats tester
+### - 🎃 FiveM Developer trying to make new things
 
 ### -------------------------------------------------
 
